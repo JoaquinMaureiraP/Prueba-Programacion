@@ -314,6 +314,8 @@ h1,h2,h3,h4,h5{
 	}
 	.column--33{
 		width: 32%;
+		padding-top: 50px;
+		margin-bottom: 20px;
 	}
 	
 	.main__about_description .column:nth-child(2){
