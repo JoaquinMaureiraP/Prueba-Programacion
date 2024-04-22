@@ -261,6 +261,12 @@ h1,h2,h3,h4,h5{
 	padding-bottom: 20px;
 	font-size: .8em;
 }
+
+.mapa{
+	display: flex;
+	justify-content: center;
+	margin-left: 120%;
+}
 .copy{
 	text-align: center;
 	margin: auto;
@@ -360,11 +366,7 @@ h1,h2,h3,h4,h5{
 		
 	}
 	
-	.main_center{
-		display: flex;
-		padding-left: 20%;
-		margin: 5%;
-	}
+
 	.main_nav{
     
     	padding: 0px;
