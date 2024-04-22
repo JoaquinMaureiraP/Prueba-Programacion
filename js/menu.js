@@ -5,3 +5,7 @@ btnMenu.addEventListener('click',function(){
     menu.classList.toggle('mostrar');
  
 });
+
+import { Input, Ripple, initMDB } from "mdb-ui-kit";
+
+initMDB({ Input, Ripple });
